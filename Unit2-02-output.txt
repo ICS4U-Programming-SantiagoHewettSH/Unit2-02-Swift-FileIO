@@ -1,0 +1,18 @@
+The sum of the valid integers is 70.
+
+The sum of the valid integers is 6.
+
+Santi is not a valid integer.
+The sum of the valid integers is 8.
+
+ is not a valid integer.
+Error: No integers found on this line.
+
+2.682 is not a valid integer.
+7.256 is not a valid integer.
+10.5625 is not a valid integer.
+Error: No integers found on this line.
+
+ is not a valid integer.
+Error: No integers found on this line.
+
